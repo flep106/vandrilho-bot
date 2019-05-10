@@ -1,0 +1,27 @@
+{
+  "name": "vandrilho-bot",
+  "version": "1.0.0",
+  "description": "CHATBOT para Telegram",
+  "main": "app.js",
+  "dependencies": {
+    "telegram-node-bot": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flep106/vandrilho-bot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "telegram"
+  ],
+  "author": "Felipe Vandrilho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flep106/vandrilho-bot/issues"
+  },
+  "homepage": "https://github.com/flep106/vandrilho-bot#readme"
+}

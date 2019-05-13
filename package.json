@@ -4,6 +4,7 @@
   "description": "CHATBOT para Telegram",
   "main": "app.js",
   "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
     "telegram-node-bot": "^4.0.5"
   },
   "devDependencies": {},
